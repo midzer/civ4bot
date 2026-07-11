@@ -1,12 +1,14 @@
 {
-  "name": "ja2bot",
+  "name": "civ4bot",
   "version": "1.0.0",
-  "description": "Serve quotes from Jagged Alliance 2 to a mastodon instance",
+  "description": "Serve quotes from Civilization 4 to a mastodon instance",
   "main": "index.js",
   "type": "module",
   "author": "midzer",
   "license": "MIT",
   "dependencies": {
-    "masto": "^6.10.3"
+    "fast-xml-parser": "^5.9.3",
+    "masto": "^6.10.3",
+    "sharp": "^0.35.3"
   }
 }

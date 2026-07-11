@@ -5,6 +5,14 @@ node_modules
 config.json
 
 # data
-faces/
-speech/
-text/
+Tech/
+TechTree/
+Audio2DScripts.xml
+AudioDefines.xml
+CIV4TechInfos.xml
+CIV4GameTextInfos.xml
+TechnologyQuotes.xml
+Technologies.xml
+CIV4GameTextInfos_Objects.xml
+TechTree_Atlas.*
+atlas.js
